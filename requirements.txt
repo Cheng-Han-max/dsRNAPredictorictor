@@ -1,0 +1,12 @@
+biopython==1.81
+gensim==4.1.0
+Keras==2.3.1
+keras-self-attention==0.46.0
+numpy==1.21.6
+scipy==1.7.3
+tensorboard==1.14.0
+tensorflow==1.14.0
+tensorflow-estimator==1.14.0
+
+
+
